@@ -22,3 +22,6 @@ O projeto foi concebido com o objetivo primário de implementar e validar os con
   - `assets/images/` - imagens da galeria
 - `styles/` - estilos CSS
   - `footer.css`, `global.css`, `header.css`, `index.css`, `main.css`, `nav.css`
+
+## Projeto
+<img width="1280" height="1346" alt="Perfil de viagens" src="https://github.com/user-attachments/assets/3cb9ad41-a5e5-4c00-8188-3f7dd804435a" />
